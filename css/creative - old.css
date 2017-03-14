@@ -61,20 +61,12 @@ p {
 }
 
 .bg-primary {
-    background-color: #522e83;
-}
-
-.bg-secondary{
-    background-color: #be9ac8;
-}
-
-.bg-tertiary{
-    background-color: #ffcc33;
+    background-color: #f05f40;
 }
 
 .bg-dark {
     color: #fff;
-    background-color: #ab9c33;
+    background-color: #222;
 }
 
 .text-faded {
