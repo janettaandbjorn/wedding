@@ -222,6 +222,7 @@ header .header-content {
     width: 100%;
     padding: 100px 15px;
     text-align: center;
+    background: rgba(0,0,0,.2);
 }
 
 header .header-content .header-content-inner h1 {
